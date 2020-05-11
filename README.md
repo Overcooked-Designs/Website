@@ -1,6 +1,6 @@
 ******************************************************************************************
 # Website                                                                                
-This is the repository for the design of a company website using HTML5, SASS and JS.  8   
+This is the repository for the design of a company website using HTML5, SASS and JS.  
 ******************************************************************************************
 
 
