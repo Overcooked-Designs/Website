@@ -10,17 +10,17 @@ This is the repository for the design of a company website using HTML5, SASS and
 ******************************************************************************************
 # Place design ideas here
 
-******************************************************************************************
-
-
-
-
+*****************************************************************************************
+Hamburger navigation on mobile app
+Plates and silverware navigation on website
+Possibly incorporate ovens to go with the overcooked theme
 
 ******************************************************************************************
 # Place technical ideas here (ie. shopping cart)
 
 ******************************************************************************************
 E-mail Sign up/weekly or monthly newsletter
+Blog updated weekly
 
 
 
