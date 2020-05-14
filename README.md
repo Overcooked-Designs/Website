@@ -20,7 +20,7 @@ This is the repository for the design of a company website using HTML5, SASS and
 # Place technical ideas here (ie. shopping cart)
 
 ******************************************************************************************
-
+E-mail Sign up/weekly or monthly newsletter
 
 
 
