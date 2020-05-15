@@ -16,6 +16,7 @@ This is the repository for the design of a company website using HTML5, SASS and
 -Possibly incorporate ovens to go with the overcooked theme
 -ovens on side of title?
 -make the letter o and the other letter o in cooked cookies?
+-Navigation menu items steam when you hover over them?
 
 ******************************************************************************************
 # Place technical ideas here (ie. shopping cart)
